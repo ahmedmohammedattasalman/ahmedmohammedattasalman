@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @ahmedmohammedattasalman
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning computer science 
+- 👋 Hi, I’m ahmed mohammed atta 
+- 👀 I’m interested in GENAI , start-ups ,ML , LLMS
+- 🌱 I’m currently learning computer science ,GENAI 
 - 💞️ I’m looking to collaborate on generative ai projects 
 - 📫 How to reach me just type @ahmedmohammedattasalman
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ahmed atta 
+- ⚡ Fun fact: Sleep Alot 
 
 <!---
 ahmedmohammedattasalman/ahmedmohammedattasalman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
